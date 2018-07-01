@@ -1,1 +1,1 @@
-> Esto es de `example.md`
+> Dies ist von der `example.md`
