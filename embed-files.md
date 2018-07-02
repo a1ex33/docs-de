@@ -32,12 +32,12 @@ Unterstützt werden derzeit:
 Natürlich kannst du auch einen bestimmten Typ bei der Einbindung einer Datei erzwingen:
 
 ```markdown
-[Dateiname](_media/example.md ':include :type=code')
+[Dateiname](/de-de/_media/example.md ':include :type=code')
 ```
 
 Obiges Beispiel hier:
 
-[Dateiname](_media/example.md ':include :type=code')
+[Dateiname](/de-de/_media/example.md ':include :type=code')
 
 ## Tag attribute
 
@@ -56,11 +56,11 @@ Hast du die Seite gesehen? Du kannst also direkt über einen Markdown-Link Webse
 Beim Einbinden von Source Code Dateien jeglichen Typs kannst du die hervorgehobene Sprache automatisch erkennen lassen oder auch selbst definieren.
 
 ```markdown
-[](_media/example.html ':include :type=code text')
+[](/de-de/_media/example.html ':include :type=code text')
 ```
 
 ⬇️
 
-[](_media/example.html ':include :type=code text')
+[](/de-de/_media/example.html ':include :type=code text')
 
 ?> Wie genau ging das nochmal mit der Hervorhebung? Vergleiche [diese Seite](language-highlight.md).
