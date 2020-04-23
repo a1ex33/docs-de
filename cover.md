@@ -34,8 +34,6 @@ Setze `coverpage` auf **true**, und erstelle `_coverpage.md`:
 [Schnellstart](#docsify)
 ```
 
-!> Die Dokumentationsseiten können nur eine Titelseite haben!
-
 ## Eigener Hintergrund
 
 Die Hintergrundfarbe wird in der Standardeinstellung zufällig generiert.
