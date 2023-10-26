@@ -1,4 +1,4 @@
-# Schnellstart
+# Schnellstart (test)
 
 Es wird empfohlen, `docsify-cli` global zu installieren, welches bei der Inbetriebnahme und der lokalen Vorschau hilft.
 
